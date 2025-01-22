@@ -1,8 +1,12 @@
 # 🌲 Hayden Bell
 
-**`Aspiring Software Engineer`**
+**`Software Engineering | Data Science | Bioinformatics | Graphics Programming`**
 
-Hm.
+## Current Projects:
+- Formula Student VCU Software (Embedded C).
+- Learning R for biotech applications.
+- Stealth Game using unity game engine (C, HLSL)
+- Social Media Site (NDA)
 
 ---
 
