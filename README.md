@@ -29,8 +29,7 @@
 #
 
 ### 📊 Stats and Website
-
-![Hayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaydenLBell&show_icons=true&theme=calm_pink) 
+[![Hayden's GitHub stats](https://github-stats-extended.vercel.app/api?username=HaydenLBell)](https://github.com/stats-organization/github-stats-extended)
 <br>
 ![website](https://haydenbell.co.uk/)
 
