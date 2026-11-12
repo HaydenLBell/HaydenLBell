@@ -1,6 +1,6 @@
 # 🌲 Hayden Bell
 
-**`Software Engineering | Data Science | Bioinformatics | Graphics Programming`**
+**`Quantitative Development | Software Engineering | Cyber Security | Statistical Modelling and Analysis`**
 
 ## Current Projects:
 
