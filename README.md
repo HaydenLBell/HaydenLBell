@@ -3,11 +3,15 @@
 **`Software Engineering | Data Science | Bioinformatics | Graphics Programming`**
 
 ## Current Projects:
-- Formula Student VCU Software (Embedded C).
-- Learning R for biotech applications.
-- Stealth Game using unity game engine (C, HLSL)
-- Social Media Site (NDA)
 
+- Backtest Overfitting Detector (Quant; Python, C++)
+- Hull of a Job (Game Dev; C#, HLSL)
+- OpenGL Graphics Engine (C++)
+
+## Favourite Projects:
+- Stealth Game using unity game engine (C#, HLSL)
+- Formula Student VCU Software (Embedded C).
+  
 ---
 
 ### 🧰 Languages and Tools
