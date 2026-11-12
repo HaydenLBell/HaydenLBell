@@ -31,7 +31,7 @@
 ### 📊 Stats and Website
 [![Hayden's GitHub stats](https://github-stats-extended.vercel.app/api?username=HaydenLBell)](https://github.com/stats-organization/github-stats-extended)
 <br>
-![website](https://haydenbell.co.uk/)
+[Visit my website!](https://haydenbell.co.uk/)
 
 #
 
